@@ -1,0 +1,33 @@
+html,
+
+header {
+    background-color: teal;
+    text-align: center;
+}
+
+img {
+
+border: 10px solid ;
+border-color: lightsalmon;
+border-radius: 50px;
+
+}
+
+
+
+
+
+
+h2 {
+    color: deeppink;
+    text-shadow: 0 0 8px #FF0000, 0 0 15px #0000FF;
+    font-size-adjust: 25px;
+}
+
+h3 {
+    background-color: aqua;
+    text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
